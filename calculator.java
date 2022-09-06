@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Calculator {
+class calculator {
    public static void main(String[] args) {
       double num1;
       double num2;
